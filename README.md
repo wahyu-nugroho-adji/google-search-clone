@@ -19,7 +19,7 @@ THE PROBLEM:
 
 
 SOLUTION:
-1. Set the outline border to none.
+1. Remove the outline.
 
 FINAL RESULT:
 
