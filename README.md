@@ -1,5 +1,10 @@
+![image](https://github.com/wahyu-nugroho-adji/google-search-clone/assets/135510326/f52bc9aa-acd0-43b6-ae5c-9fda7ae050ea)
+
+
 THE GOAL:
 1. Create Google search clone
+
+![image](https://github.com/wahyu-nugroho-adji/google-search-clone/assets/135510326/a431776e-57fc-451a-8532-2d18bc015f7b)
 
 WHAT I DID:
 1. Create a container for the icons and the input tag. So that they are will be in the same line.
